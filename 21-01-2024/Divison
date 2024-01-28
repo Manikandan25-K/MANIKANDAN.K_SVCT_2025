@@ -1,0 +1,29 @@
+# Output Format
+
+# Print the two lines as described above.
+
+# Sample Input 0
+
+# 4
+# 3
+# Sample Output 0
+
+# 1
+# 1.33333333333
+
+
+code1
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+print(a//b)
+print(a/b)
+
+
+code2
+
+num1= 10
+num2= 9
+print(num1//num2)
+print(num1/num2)
